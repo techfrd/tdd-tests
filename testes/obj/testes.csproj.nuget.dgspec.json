@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj": {}
+    "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj": {
+    "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj",
+        "projectUniqueName": "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj",
         "projectName": "tdd",
-        "projectPath": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj",
+        "projectPath": "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\obj\\",
+        "outputPath": "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj": {
+    "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj",
+        "projectUniqueName": "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj",
         "projectName": "testes",
-        "projectPath": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj",
+        "projectPath": "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\obj\\",
+        "outputPath": "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj": {
-                "projectPath": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj"
+              "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj": {
+                "projectPath": "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj"
               }
             }
           }
