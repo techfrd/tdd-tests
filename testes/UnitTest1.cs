@@ -48,4 +48,21 @@ public class UnitTest1
         Assert.Throws<DivideByZeroException>(
             () => calc.Dividir(3,0));
     }
+
+    [Fact]
+    public void TestarHistorico()
+    {
+        Calculadora calc = new Calculadora();
+
+        calc.Somar(1, 2);
+        calc.Somar(2, 9);
+        calc.Somar(3, 9);
+        calc.Somar(4, 2);
+
+        var lista = calc.HistoricoDasOperacoes();
+
+        Assert.NotEmpty(lista);
+        Assert.Equal(3, lista.Count);
+        
+    }
 }
