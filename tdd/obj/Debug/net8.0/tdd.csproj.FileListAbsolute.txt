@@ -1,0 +1,15 @@
+c:\Users\ferna\Documents\Programação\DIO - BootCamp\BootCamp - XP inc\Projetos\tdd\tdd\bin\Debug\net8.0\tdd.exe
+c:\Users\ferna\Documents\Programação\DIO - BootCamp\BootCamp - XP inc\Projetos\tdd\tdd\bin\Debug\net8.0\tdd.deps.json
+c:\Users\ferna\Documents\Programação\DIO - BootCamp\BootCamp - XP inc\Projetos\tdd\tdd\bin\Debug\net8.0\tdd.runtimeconfig.json
+c:\Users\ferna\Documents\Programação\DIO - BootCamp\BootCamp - XP inc\Projetos\tdd\tdd\bin\Debug\net8.0\tdd.dll
+c:\Users\ferna\Documents\Programação\DIO - BootCamp\BootCamp - XP inc\Projetos\tdd\tdd\bin\Debug\net8.0\tdd.pdb
+c:\Users\ferna\Documents\Programação\DIO - BootCamp\BootCamp - XP inc\Projetos\tdd\tdd\obj\Debug\net8.0\tdd.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ferna\Documents\Programação\DIO - BootCamp\BootCamp - XP inc\Projetos\tdd\tdd\obj\Debug\net8.0\tdd.AssemblyInfoInputs.cache
+c:\Users\ferna\Documents\Programação\DIO - BootCamp\BootCamp - XP inc\Projetos\tdd\tdd\obj\Debug\net8.0\tdd.AssemblyInfo.cs
+c:\Users\ferna\Documents\Programação\DIO - BootCamp\BootCamp - XP inc\Projetos\tdd\tdd\obj\Debug\net8.0\tdd.csproj.CoreCompileInputs.cache
+c:\Users\ferna\Documents\Programação\DIO - BootCamp\BootCamp - XP inc\Projetos\tdd\tdd\obj\Debug\net8.0\tdd.sourcelink.json
+c:\Users\ferna\Documents\Programação\DIO - BootCamp\BootCamp - XP inc\Projetos\tdd\tdd\obj\Debug\net8.0\tdd.dll
+c:\Users\ferna\Documents\Programação\DIO - BootCamp\BootCamp - XP inc\Projetos\tdd\tdd\obj\Debug\net8.0\refint\tdd.dll
+c:\Users\ferna\Documents\Programação\DIO - BootCamp\BootCamp - XP inc\Projetos\tdd\tdd\obj\Debug\net8.0\tdd.pdb
+c:\Users\ferna\Documents\Programação\DIO - BootCamp\BootCamp - XP inc\Projetos\tdd\tdd\obj\Debug\net8.0\tdd.genruntimeconfig.cache
+c:\Users\ferna\Documents\Programação\DIO - BootCamp\BootCamp - XP inc\Projetos\tdd\tdd\obj\Debug\net8.0\ref\tdd.dll
