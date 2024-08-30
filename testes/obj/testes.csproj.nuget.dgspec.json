@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj": {}
+    "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj": {
+    "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj",
-        "projectName": "testes",
-        "projectPath": "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj",
+        "projectUniqueName": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj",
+        "projectName": "tdd",
+        "projectPath": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\obj\\",
+        "outputPath": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,6 +26,68 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj",
+        "projectName": "testes",
+        "projectPath": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj",
+        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj": {
+                "projectPath": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

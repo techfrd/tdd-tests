@@ -1708,6 +1708,16 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "tdd/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/tdd.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/tdd.dll": {}
+        }
       }
     }
   },
@@ -5497,12 +5507,18 @@
         "xunit.runner.visualstudio.2.5.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "tdd/1.0.0": {
+      "type": "project",
+      "path": "../tdd/tdd.csproj",
+      "msbuildProject": "../tdd/tdd.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "coverlet.collector >= 6.0.0",
+      "tdd >= 1.0.0",
       "xunit >= 2.5.3",
       "xunit.runner.visualstudio >= 2.5.3"
     ]
@@ -5513,11 +5529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj",
+      "projectUniqueName": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj",
       "projectName": "testes",
-      "projectPath": "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj",
+      "projectPath": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\testes.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\obj\\",
+      "outputPath": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\testes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5531,7 +5547,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj": {
+              "projectPath": "c:\\Users\\ferna\\Documents\\Programação\\DIO - BootCamp\\BootCamp - XP inc\\Projetos\\tdd\\tdd\\tdd.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
